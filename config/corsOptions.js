@@ -1,6 +1,6 @@
 
 const whitelist = [
-  //Glitch  
+    "https://patch-small-cold.glitch.me",
     "http://127.0.0.1:5000/",
     "http://localhost:3000",
     "https://dazzling-snickerdoodle-777101.netlify.app",
